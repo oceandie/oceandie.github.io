@@ -32,7 +32,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-          ('github', 'https://github.com/oceandie/oceandie.github.io'),
+          ('github', 'https://github.com/oceandie'),
           ('twitter', 'https://twitter.com/soundieg'),
           ('linkedin', 'https://www.linkedin.com/in/diego-bruciaferri-6300a194/'),
           ('Researchgate', 'https://www.researchgate.net/profile/Diego_Bruciaferri'),

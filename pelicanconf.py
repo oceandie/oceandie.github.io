@@ -45,6 +45,7 @@ DEFAULT_PAGINATION = 10
 THEME = "../pelican-themes/pure"
 
 COVER_IMG_URL = '/images/Research_Oceans.jpg'
+TAGLINE = 'Physical oceanographer and ocean modeller.'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 

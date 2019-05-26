@@ -1,0 +1,6 @@
+http://archerimagine.com/articles/pelican/python-setup-for-pelican-blog.html
+
+to activate pelican1 env:
+source activate pelican1
+to deactivate
+source deactivate

@@ -4,7 +4,7 @@ Date: 2019-05-29
 ## Journal articles
 
 - **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D.  
-*The development of a 3D computational mesh to improve the representation of dynamic processes in ocean models: application and testing in the Black Sea * (submitted to Ocean Modelling).
+*The development of a 3D computational mesh to improve the representation of dynamic processes in ocean models: application and testing in the Black Sea* (submitted to Ocean Modelling).
 
 - **Bruciaferri, D.**, Shapiro, G.I. and Wobus, F. (2018)   
 *A multi-envelope vertical coordinate system for numerical ocean modelling*. Ocean Dynamics, Volume 68(10), Pages 1239-1258, [doi](https://link.springer.com/article/10.1007\%2Fs10236-018-1189-x) 

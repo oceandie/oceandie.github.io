@@ -1,7 +1,9 @@
 Title: Publications 
 Date: 2019-05-29
 
-## Journal articles
+## Under review
+
+## Peer-reviewed articles
 
 - **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D.  
 *The development of a 3D computational mesh to improve the representation of dynamic processes in ocean models: application and testing in the Black Sea* (submitted to Ocean Modelling).
@@ -44,10 +46,11 @@ Date: 2019-05-29
 - De Dominicis, M., Pinardi, N., **Bruciaferri, D.**, Liubartseva, S.  
 *Numerical modelling for real-time forecasting of marine oil pollution and hazard assessment*, EGU assembly 2015, Vienna (AU).
 
-## PhD thesis
+## PhD dissertation
 
 
 ## MSc thesis 
 Study of a Wind-Wave Numerical Model and its integration with an Ocean and an Oil-Spill Numerical Models [pdf](https://www.sincem.unibo.it/images/tesi/tesi_bruciaferri.pdf)  
 MSc in Environmental Sciences, University of Bologna 
+
 

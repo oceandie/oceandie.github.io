@@ -7,7 +7,7 @@ Date: 2019-05-29
 *The development of a 3D computational mesh to improve the representation of dynamic processes in ocean models: application and testing in the Black Sea* (submitted to Ocean Modelling).
 
 - **Bruciaferri, D.**, Shapiro, G.I. and Wobus, F. (2018)   
-*A multi-envelope vertical coordinate system for numerical ocean modelling*. Ocean Dynamics, Volume 68(10), Pages 1239-1258, [doi](https://link.springer.com/article/10.1007\%2Fs10236-018-1189-x) 
+*A multi-envelope vertical coordinate system for numerical ocean modelling*. Ocean Dynamics, Volume 68(10), Pages 1239-1258, [doi](https://link.springer.com/article/10.1007/s10236-018-1189-x) 
 
 - De Dominicis, M., **Bruciaferri, D.**, Gerin, R., Pinardi, N., Poulain, P.M., Garreau, P., Zodiatis, G., Perivoliotis, L., Fazioli, L., Sorgente, R., Manganiello, C. (2016)  
 *A multi-model assessment of the impact of currents, waves and wind in modelling surface drifters and oil spill*, Deep Sea Research Part II: Topical Studies in Oceanography, Volume 133, Pages 21-38, [doi](http://dx.doi.org/10.1016/j.dsr2.2016.04.002)

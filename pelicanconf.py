@@ -50,6 +50,7 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
 MENUITEMS = [
+    ('Home', '/intro.html'),
     ('About', '/about.html'),
     ('Research', '/research.html'),
     ('Publications', '/publications.html'),

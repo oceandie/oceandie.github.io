@@ -4,7 +4,7 @@ Date: 2019-05-29
 ## Under review
 
 - **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D.
-*The development of a 3D computational mesh to improve the representation of dynamic processes in ocean models: application and testing in the Black Sea* (submitted to Ocean Modelling).
+*The development of a 3D computational mesh to improve the representation of dynamic processes: the Black Sea test case* (under review for Ocean Modelling).
 
 ## Peer-reviewed articles
 
@@ -26,10 +26,10 @@ Date: 2019-05-29
 *A new numerical model for the Black Sea circulation*. Geophysical Research Abstracts. Vol. 21, EGU2019-5933, April 2019, Vienna (AU).
 
 - **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D.  
-*A numerical model of the Black Sea circulation using a structured multi-envelope mesh with variable resolution*. Met Office seminars, $5^{th}$ March 2019, Exeter (UK).
+*A numerical model of the Black Sea circulation using a structured multi-envelope mesh with variable resolution*. Met Office seminars, 5th March 2019, Exeter (UK).
 
 - **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D.  
-*An advanced numerical model of the Black Sea*. PlyMSEF conference, Plymouth Marine Laboratoty, $5^{th}$ February 2019, Plymouth (UK).
+*An advanced numerical model of the Black Sea*. PlyMSEF conference, Plymouth Marine Laboratoty, 5th February 2019, Plymouth (UK).
 
 - Shapiro, G.I., Manasrah, R., Gertman, I., **Bruciaferri, D.**  
 *The effect of different types of water column structure on the sea level in the Dead Sea*. Geophysical Research Abstracts. Vol. 20, EGU2018-19780, April 2018, Vienna (AU).
@@ -46,11 +46,9 @@ Date: 2019-05-29
 - De Dominicis, M., Pinardi, N., **Bruciaferri, D.**, Liubartseva, S.  
 *Numerical modelling for real-time forecasting of marine oil pollution and hazard assessment*, EGU assembly 2015, Vienna (AU).
 
-## PhD dissertation
+## Dissertations
+Bruciaferri, Diego (2019). *Advanced methods for numerical modelling of regional seas* (Ph.D. dissertation). [pdf]()
 
-
-## MSc thesis 
-Study of a Wind-Wave Numerical Model and its integration with an Ocean and an Oil-Spill Numerical Models [pdf](https://www.sincem.unibo.it/images/tesi/tesi_bruciaferri.pdf)  
-MSc in Environmental Sciences, University of Bologna 
+Bruciaferri, Diego (2014). *Study of a Wind-Wave Numerical Model and its integration with an Ocean and an Oil-Spill Numerical Models* (M.Sc. dissertation) [pdf](https://www.sincem.unibo.it/images/tesi/tesi_bruciaferri.pdf) 
 
 

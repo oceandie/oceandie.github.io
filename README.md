@@ -15,6 +15,7 @@ pip install typogrify
 ```
 
 ## How to use it
+https://github.com/getpelican/pelican/blob/master/docs/tips.rst
 
 ```
 pelican content -o output -s pelicanconf.py

@@ -30,7 +30,7 @@ cd oceandie.github.io.git/pelican
 conda activate pelican39
 pelican content -o ../docs -s pelicanconf.py
 git add *
-git commit -m 'your message ofr the commit'
+git commit -m 'your message for the commit'
 git push  orgin main
 ```
 

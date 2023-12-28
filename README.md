@@ -14,8 +14,8 @@ pip install beautifulsoup4
 pip install typogrify
 ```
 
-## 2. How to use it Pelican
-Adapted from [here](https://github.com/getpelican/pelican/blob/master/docs/tips.rst)
+## 2. How to use Pelican
+This guide is adapted from [here](https://github.com/getpelican/pelican/blob/master/docs/tips.rst)
 
 a) Cloning the repository
 ```

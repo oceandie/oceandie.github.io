@@ -25,7 +25,12 @@ SOCIAL = (
           ('github', 'https://github.com/oceandie'),
           ('twitter', 'https://twitter.com/soundieg'),
           ('linkedin', 'https://www.linkedin.com/in/diego-bruciaferri-6300a194/'),
-          ('researchgate', 'https://www.researchgate.net/profile/Diego_Bruciaferri'),
+          #('researchgate', 'https://www.researchgate.net/profile/Diego_Bruciaferri'),
+)
+
+LINKS = (
+    ("Researchgate", "https://www.researchgate.net/profile/Diego_Bruciaferri"),
+    #("CV", {attach}/pdfs/academic_cv.pdf),
 )
 
 DEFAULT_PAGINATION = 10

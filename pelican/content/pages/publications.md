@@ -3,29 +3,42 @@ Date: 2021-10-02
 
 ### In preparation
 
-- **Bruciaferri, D.** et al. *GULF18: a high-resolution NEMO-based ocean model for operational forecasting of the Gulf area*
 
 ### Under review
 
-- Wise, A., Harle, J., **Bruciaferri, D.**, O’Dea, E., Polton, J., 2021. *The effect of vertical coordinates on the accuracy of a shelf model*, under review for *Ocean Modelling*
+**Bruciaferri, D.**, Guiavarc`h, C., Hewitt, H.T., Harle, J., Almansi, M., Mathiot, P. *Localised general vertical coordinates for quasi-Eulerian ocean models: the Nordic overflows test-case*, Journal of Advances in Modelling Earth Systems, [pre-print](https://doi.org/10.22541/essoar.168771422.22225431/v1)
 
 ### Peer-reviewed
 
-- **Bruciaferri, D.**, Tonani, M., Lewis, H. W., Siddorn, J. R., Saulter, A., Castillo Sanchez, J. M., Valiente, N. G., Conley, D., Sykes, P., Ascione, I., McConnell, N., 2021. *The Impact of Ocean-Wave Coupling on the Upper Ocean Circulation During Storm Events*, Journal of Geophysical Research: Oceans, 126, doi:e2021JC017343. [pdf]({attach}/pdfs/papers/Bruciaferri_et_al_2021-The_Impact_of_Ocean-Wave_Coupling_on_the_Upper_Ocean_Circulation_During_Storm_Events.pdf)
+- Jackson, L. C., Hewitt, H. T., **Bruciaferri, D.**, Calvert, D., Graham, T., Guiavarc’h, C., Menary, M.B., New, A. L., Roberts, M. and Storkey, D. *Challenges simulating the AMOC in climate models*, Phil. Trans. R. Soc. A., 2023, [link](https://doi.org/10.1098/rsta.2022.0187)
 
-- Valiente, N. G., Saulter, A., Edwards J.M, Lewis, H. W., Castillo Sanchez, J. M., **Bruciaferri, D.**, Bunney, C., Siddorn, J. R., 2021. *The Impact of Wave Model Source Terms and Coupling Strategies to Rapidly Developing Waves across the North-West European Shelf during Extreme Events*, J. Mar. Sci. Eng. 2021, 9, 403. doi:10.3390/jmse9040403. [pdf]({attach}/pdfs/papers/Valiente_et_al_2021-The_Impact_of_Wave_Model_Source_Terms_and_Coupling_Strategies_to_Rapidly_Developing_Waves_across_the_North-West_European_Shelf_during_Extreme_Events.pdf)
+- Polton, J., Harle, J., Holt, J., Katavouta, A., Partridge, D., Jardine, J., Wakelin, S., Rulent, J., Wise, A., Hutchinson, K., Byrne, D., **Bruciaferri, D.**, O`Dea, E., De Dominicis, M., Mathiot, P., Coward, A., Yool, A., Palmiéri, J., Lessin, G., Mayorga-Adame, C.G., Le Guennec, V., Arnold, A. *Reproducible and Relocatable Regional Ocean Modelling: Fundamentals and practices*, Geoscientific Model Development, 2023, [link](https://doi.org/10.5194/gmd-16-1481-2023)
 
-- **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D., 2020. *The development of a 3D computational mesh to improve the representation of dynamic processes: the Black Sea test case*, Ocean Modelling, 146, 101534, doi:10.1016/j.ocemod.2019.101534. [pdf]({attach}/pdfs/papers/Bruciaferri_et_al_2020-The_development_of_a_3D_computational_mesh_to_improve_the_representation_of_dynamic_processes-The_Black_Sea_test_case.pdf)
+- **Bruciaferri, D.**, Tonani, M., Ascione, I., Al Senafi, F., O`Dea, E., Hewitt, H. T., and Saulter, A.  *GULF18, a high-resolution NEMO-based tidal ocean model of the Arabian/Persian Gulf*, Geoscientific Model Development, 2022, [link](https://doi.org/10.5194/gmd-15-8705-2022)
 
-- **Bruciaferri, D.**, Shapiro, G.I. and Wobus, F., 2018. *A multi-envelope vertical coordinate system for numerical ocean modelling*. Ocean Dynamics, 68(10), 1239-1258, doi:10.1007/s10236-018-1189-x. [pdf]({attach}/pdfs/papers/Bruciaferri_et_al_2018-A_multi-envelope_vertical_coordinate_system_for_numerical_ocean_modelling.pdf)
+- Wise, A., Harle, J., **Bruciaferri, D.**, O`Dea, E., Polton, J. *The effect of vertical coordinates on the accuracy of a shelf sea model*, Ocean Modelling, 2021 [link](https://doi.org/10.1016/j.ocemod.2021.101935)
 
-- De Dominicis, M., **Bruciaferri, D.**, Gerin, R., Pinardi, N., Poulain, P.M., Garreau, P., Zodiatis, G., Perivoliotis, L., Fazioli, L., Sorgente, R., Manganiello, C., 2016. *A multi-model assessment of the impact of currents, waves and wind in modelling surface drifters and oil spill*, Deep Sea Research Part II: Topical Studies in Oceanography, 133, 21-38, doi:10.1016/j.dsr2.2016.04.002. [pdf]({attach}/pdfs/papers/De_Dominicis_et_al_2016-A_multi-model_assessment_of_the_impact_of_currents_waves_and_wind_in_modelling_surface_drifters_and_oil_spill.pdf)
+- **Bruciaferri, D.**, Tonani, M., Lewis, H. W., Siddorn, J. R., Saulter, A., Castillo Sanchez, J. M., Valiente, N. G., Conley, D., Sykes, P., Ascione, I., McConnell, N., *The Impact of Ocean-Wave Coupling on the Upper Ocean Circulation During Storm Events*, Journal of Geophysical Research: Oceans, 2021, [link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017343)
 
-- Trotta, F., Fenu, E., Pinardi, N., **Bruciaferri, D.**, Giacomelli, L., Federico, I., Coppini, G., 2016. *A Structured and Unstructured grid Relocatable ocean platform for Forecasting (SURF)*, Deep Sea Research Part II: Topical Studies in Oceanography, 133, 54-75, doi:10.1016/j.dsr2.2016.05.004. [pdf]({attach}/pdfs/papers/Trotta_et_al_2016-A_Structured_and_Unstructured_grid_Relocatable_ocean_platform_for_Forecasting_SURF.pdf)
+- Valiente, N. G., Saulter, A., Edwards J.M, Lewis, H. W., Castillo Sanchez, J. M., **Bruciaferri, D.**, Bunney, C., Siddorn, J. R., *The Impact of Wave Model Source Terms and Coupling Strategies to Rapidly Developing Waves across the North-West European Shelf during Extreme Events*, J. Mar. Sci. Eng. 2021, [link](https://www.mdpi.com/2077-1312/9/4/403)
 
-- Zodiatis, G., De Dominicis, D., Perivoliotis, L., Radhakrishnan, H., Georgoudis, E., Sotillo, M., Lardner, R.W., Krokos, G., **Bruciaferri, D.**, Clementi, E., Guarnieri, A., Ribotti, A., Drago, A., Bourma, E., Padorno, E., Daniel, P., Gonzalez, G., Chazot, C., Gouriou, V., Kremer, X., Sofianos, S., Tintore, J., Garreau, P., Pinardi, N., Coppini, G., Lecci, R., Pisano, A., Sorgente, R., Fazioli, L., Soloviev, D., Stylianou, S., Nikolaidis, A., Panayidou, X., Karaolia, A., Gauci, A., Marcati, A., Caiazzo, L., Mancini, M., 2016. *The Mediterranean Decision Support System for Marine Safety dedicated to oil slicks predictions*, Deep Sea Research Part II: Topical Studies in Oceanography, 133, 4-20, doi:10.1016/j.dsr2.2016.07.014. [pdf]({attach}/pdfs/papers/Zodiatis_et_al_2016-The_Mediterranean_Decision_Support_System_for_Marine_Safety_dedicated_to_oil_slicks_predictions.pdf)
+- **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D., *The development of a 3D computational mesh to improve the representation of dynamic processes: the Black Sea test case*, Ocean Modelling, 2020, [link](https://www.sciencedirect.com/science/article/pii/S1463500319301593)
+
+- **Bruciaferri, D.**, Shapiro, G.I. and Wobus, F., *A multi-envelope vertical coordinate system for numerical ocean modelling*. Ocean Dynamics, 2018, [link](https://link.springer.com/article/10.1007/s10236-018-1189-x)
+
+- De Dominicis, M., **Bruciaferri, D.**, Gerin, R., Pinardi, N., Poulain, P.M., Garreau, P., Zodiatis, G., Perivoliotis, L., Fazioli, L., Sorgente, R., Manganiello, C., *A multi-model assessment of the impact of currents, waves and wind in modelling surface drifters and oil spill*, Deep Sea Research Part II: Topical Studies in Oceanography, 2016, [link](https://www.sciencedirect.com/science/article/pii/S0967064516300583)
+
+- Trotta, F., Fenu, E., Pinardi, N., **Bruciaferri, D.**, Giacomelli, L., Federico, I., Coppini, G., *A Structured and Unstructured grid Relocatable ocean platform for Forecasting (SURF)*, Deep Sea Research Part II: Topical Studies in Oceanography, 2016, [link](https://www.sciencedirect.com/science/article/pii/S0967064516301047)
+
+- Zodiatis, G., De Dominicis, D., Perivoliotis, L., Radhakrishnan, H., Georgoudis, E., Sotillo, M., Lardner, R.W., Krokos, G., **Bruciaferri, D.**, Clementi, E., Guarnieri, A., Ribotti, A., Drago, A., Bourma, E., Padorno, E., Daniel, P., Gonzalez, G., Chazot, C., Gouriou, V., Kremer, X., Sofianos, S., Tintore, J., Garreau, P., Pinardi, N., Coppini, G., Lecci, R., Pisano, A., Sorgente, R., Fazioli, L., Soloviev, D., Stylianou, S., Nikolaidis, A., Panayidou, X., Karaolia, A., Gauci, A., Marcati, A., Caiazzo, L., Mancini, M., *The Mediterranean Decision Support System for Marine Safety dedicated to oil slicks predictions*, Deep Sea Research Part II: Topical Studies in Oceanography, 2016, [link](https://www.sciencedirect.com/science/article/pii/S0967064516302144)
 
 ### Conference proceedings
+
+- **Bruciaferri, D.**, Hewitt, H.T., Bell, M.J., Guiavarc'h, C., Storkey, D., Roberts, M.J. and Jackson, L. *Sensitivity of the Western North Atlantic circulation to the vertical coordinate system in global ocean models*. "Whither the Gulf Stream" Workshop - Woods Hole, MA, USA, June 2022.
+
+- **Bruciaferri, D.**, Guiavarc'h, C., Hewitt, H., Harle, J., Almansi, M., and Mathiot, P. *Improving nordic overflows representation in global ocean models*, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-4072  
+
+- Bell, M.J. and **Bruciaferri, D.** *Accurate calculation of pressure forces on cells defined by steeply sloping coordinates*, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-5012.
 
 - **Bruciaferri, D.**, Harle, J., Wise, A., O'Dea, E., Polton J. *The impact of the vertical discretization scheme on the accuracy of a model of the European north-west shelf*, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-4152, https://doi.org/10.5194/egusphere-egu21-4152, 2021
 
@@ -48,8 +61,8 @@ Date: 2021-10-02
 - De Dominicis, M., Pinardi, N., **Bruciaferri, D.**, Liubartseva, S. *Numerical modelling for real-time forecasting of marine oil pollution and hazard assessment*, EGU assembly 2015, Vienna (AU).
 
 ### Dissertations
-Bruciaferri Diego, 2019. *Advanced methods for numerical modelling of regional seas* (Ph.D. dissertation).
+Bruciaferri Diego, 2019. *Advanced methods for numerical modelling of regional seas* (Ph.D. dissertation) [link](https://pearl.plymouth.ac.uk/handle/10026.1/15809)
 
-Bruciaferri Diego, 2014. *Study of a Wind-Wave Numerical Model and its integration with an Ocean and an Oil-Spill Numerical Models* (M.Sc. dissertation) [pdf](https://www.sincem.unibo.it/images/tesi/tesi_bruciaferri.pdf) 
+Bruciaferri Diego, 2014. *Study of a Wind-Wave Numerical Model and its integration with an Ocean and an Oil-Spill Numerical Models* (M.Sc. dissertation) [link](https://www.sincem.unibo.it/images/tesi/tesi_bruciaferri.pdf) 
 
 

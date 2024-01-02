@@ -32,7 +32,7 @@ Date: 2021-10-02
 
 - Zodiatis, G., De Dominicis, D., Perivoliotis, L., Radhakrishnan, H., Georgoudis, E., Sotillo, M., Lardner, R.W., Krokos, G., **Bruciaferri, D.**, Clementi, E., Guarnieri, A., Ribotti, A., Drago, A., Bourma, E., Padorno, E., Daniel, P., Gonzalez, G., Chazot, C., Gouriou, V., Kremer, X., Sofianos, S., Tintore, J., Garreau, P., Pinardi, N., Coppini, G., Lecci, R., Pisano, A., Sorgente, R., Fazioli, L., Soloviev, D., Stylianou, S., Nikolaidis, A., Panayidou, X., Karaolia, A., Gauci, A., Marcati, A., Caiazzo, L., Mancini, M., *The Mediterranean Decision Support System for Marine Safety dedicated to oil slicks predictions*, Deep Sea Research Part II: Topical Studies in Oceanography, 2016, [link](https://www.sciencedirect.com/science/article/pii/S0967064516302144)
 
-### Conference proceedings
+### Selected talks and conferences
 
 - **Bruciaferri, D.**, Hewitt, H.T., Bell, M.J., Guiavarc'h, C., Storkey, D., Roberts, M.J. and Jackson, L. *Sensitivity of the Western North Atlantic circulation to the vertical coordinate system in global ocean models*. "Whither the Gulf Stream" Workshop - Woods Hole, MA, USA, June 2022.
 
@@ -40,25 +40,17 @@ Date: 2021-10-02
 
 - Bell, M.J. and **Bruciaferri, D.** *Accurate calculation of pressure forces on cells defined by steeply sloping coordinates*, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-5012.
 
-- **Bruciaferri, D.**, Harle, J., Wise, A., O'Dea, E., Polton J. *The impact of the vertical discretization scheme on the accuracy of a model of the European north-west shelf*, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-4152, https://doi.org/10.5194/egusphere-egu21-4152, 2021
+- **Bruciaferri, D.**, Harle, J., Wise, A., O'Dea, E., Polton J. *The impact of the vertical discretization scheme on the accuracy of a model of the European north-west shelf*, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-4152
 
-- **Bruciaferri, D.**, Tonani, M., Lewis, H. W., Siddorn, J., King, R. R., Sykes, P., Castillo, J. M., Saulter, A., McConnell, N., Ascione, I., and O'Dea, E.: *Modelling the upper ocean dynamics of the north-west European shelf during storm events with the UK Met Office ocean-wave prediction system*, EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-4960, https://doi.org/10.5194/egusphere-egu2020-4960, 2020 
+- **Bruciaferri, D.**, Tonani, M., Lewis, H. W., Siddorn, J., King, R. R., Sykes, P., Castillo, J. M., Saulter, A., McConnell, N., Ascione, I., and O'Dea, E.: *Modelling the upper ocean dynamics of the north-west European shelf during storm events with the UK Met Office ocean-wave prediction system*, EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-4960
 
-- **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D. *A new numerical model for the Black Sea circulation*. Geophysical Research Abstracts. Vol. 21, EGU2019-5933, April 2019, Vienna (AU).
+- **Bruciaferri, D.**: *A Multi Envelope $s$-coordinate system for numerical ocean modelling: idealised and realistic experiments*, Department of Physics, University of Oxford, 29th January 2020, Oxford (UK) (*Invited*).
 
-- **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D. *A numerical model of the Black Sea circulation using a structured multi-envelope mesh with variable resolution*. Met Office seminars, 5th March 2019, Exeter (UK).
+- **Bruciaferri, D.**: *A numerical model of the Black Sea circulation using a structured multi-envelope mesh with variable resolution*. Met Office seminars, 5th March 2019, Exeter (UK) (*Invited*).
 
 - **Bruciaferri, D.**, Shapiro, G., Stanichny, S., Zatsepin, A., Ezer, T., Wobus, F., Francis, X., Hilton, D. *An advanced numerical model of the Black Sea*. PlyMSEF conference, Plymouth Marine Laboratoty, 5th February 2019, Plymouth (UK).
 
-- Shapiro, G.I., Manasrah, R., Gertman, I., **Bruciaferri, D.** *The effect of different types of water column structure on the sea level in the Dead Sea*. Geophysical Research Abstracts. Vol. 20, EGU2018-19780, April 2018, Vienna (AU).
-
 - **Bruciaferri, D.**, Shapiro, G.I., Wobus, F. *An Advanced Vertical Coordinate System to Improve the Representation of the Oceanic Transport in Regional Non-Isopycnal Ocean Models*. Abstract 310863 presented at 2018 Ocean Sciences Meeting, Portland, OR, 12-16 February 2018.
-
-- **Bruciaferri, D.**, Shapiro, G.I., Wobus, F. *The development of an advanced vertical discretisation scheme for a regional ocean model*. Geophysical Research Abstracts. Vol. 19, EGU2017-7276, April 2017, Vienna (AU).
-
-- **Bruciaferri, D.**, Shapiro, G.I., Wobus, F. *A coupled ocean-wave modeling system to investigate the role of the wave-induced turbulence on the Cold Intermediate Water formation in the Black Sea - The scientific approach*, NPOP conference, April 2016, Bristol (UK).
-
-- De Dominicis, M., Pinardi, N., **Bruciaferri, D.**, Liubartseva, S. *Numerical modelling for real-time forecasting of marine oil pollution and hazard assessment*, EGU assembly 2015, Vienna (AU).
 
 ### Dissertations
 Bruciaferri Diego, 2019. *Advanced methods for numerical modelling of regional seas* (Ph.D. dissertation) [link](https://pearl.plymouth.ac.uk/handle/10026.1/15809)
